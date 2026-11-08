@@ -7,9 +7,9 @@ IMG=$1; AUDIO=$2; OUT=$3
 TMP=$(mktemp -d)
 FPS=24; HALF=20; FRAMES=$((FPS * HALF))
 ffmpeg -loglevel error -y -loop 1 -i "$IMG" -t $HALF \
-  -vf "scale=3840:2160:force_original_aspect_ratio=increase,crop=3840:2160,zoompan=z='1+0.05*on/$FRAMES':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=$FRAMES:s=1920x1080:fps=$FPS" \
-  -c:v libx264 -preset slow -crf 32 -pix_fmt yuv420p -g $((FPS * 4)) "$TMP/in.mp4"
-ffmpeg -loglevel error -y -i "$TMP/in.mp4" -vf reverse -c:v libx264 -preset slow -crf 32 -pix_fmt yuv420p -g $((FPS * 4)) "$TMP/out.mp4"
+  -vf "scale=3840:2160:force_original_aspect_ratio=increase,crop=3840:2160,zoompan=z='1+0.05*on/$FRAMES':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=$FRAMES:s=1280x720:fps=$FPS" \
+  -c:v libx264 -preset slow -crf 30 -pix_fmt yuv420p -g $((FPS * 4)) "$TMP/in.mp4"
+ffmpeg -loglevel error -y -i "$TMP/in.mp4" -vf reverse -c:v libx264 -preset slow -crf 30 -pix_fmt yuv420p -g $((FPS * 4)) "$TMP/out.mp4"
 DUR=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$AUDIO")
 printf "file '%s'\nfile '%s'\n" "$TMP/in.mp4" "$TMP/out.mp4" > "$TMP/pair.txt"
 ffmpeg -loglevel error -y -f concat -safe 0 -i "$TMP/pair.txt" -c copy "$TMP/loop.mp4"

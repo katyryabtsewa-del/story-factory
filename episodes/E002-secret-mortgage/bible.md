@@ -40,3 +40,13 @@ Setting: Marlow Falls, Ohio (fictional suburb). Present year 2026. Narrator tell
 - Lemon sheet cake (Helen brings one to the party; Piper cuts it).
 - Do not mention E001 elements (trust, will, Thanksgiving, competency).
 - No violence. Vanessa is cruel with words and smiles, not shouting.
+
+## Additions made while writing (script v1)
+- Payment count: Dec 2020 to Oct 2026 is seventy-one payments, so at the party (Oct 24) and in the Oct 16 statements Helen says "seventy-one" (116,440 dollars). The seventy-second goes out Nov 1 (last ding); at Okafor's on Nov 3 she forgives "all seventy-two payments", "a hundred and eighteen thousand".
+- Helen knew from closing that Vanessa was not on the deed or loan (Derek said "a credit matter"), but not about the bankruptcy, and not that Vanessa believed she was on both (learns it Oct 8).
+- Oct 16 notice is sent by certified mail to Derek at Tri-County, not to the house. Helen also sends the lender a letter of non-consent to any lien.
+- Piper's invitation arrives Wed Oct 21, address in Derek's handwriting.
+- Bruce paid for the wedding and honeymoon only, never the house; he apologizes to Helen and leaves the party with his wife.
+- Ray: lathe operator thirty-four years. Gloria: thirty-three years at the credit union; ceramic goose dressed for the seasons.
+- Okafor wears bow ties. Terms Nov 3: house on market by Jan 14 (Derek cannot refinance, about 2,900 a month); Saturdays with Piper ten to two as a request, not a term.
+- Epilogue: listed Jan 15, sold third week of February for 418,500 to a young couple; Derek rents a townhouse, gets a regional account at Tri-County (+7,000 a year), sends Helen 200 dollars on the first of each month by choice (new page in the green ledger); Vanessa apologizes in April at the Linden Lane cottage and takes down her posts; Helen buys the cottage in her name alone.

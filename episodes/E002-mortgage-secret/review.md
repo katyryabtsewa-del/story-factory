@@ -219,3 +219,6 @@ The voice, the structure and the bookkeeper motif are good, and the text is near
 
 ## The one change that would most improve retention
 Rebuild ch7 so it is the first time the listener learns something new and so a witness from the party hears it. Cut the recap to a couple of sentences, then read three things the listener has not heard: the broker's worksheet (her own mortgage paid off, sixty-two thousand left over, forty-one thousand of it to cards), the dated ledger notes beside Cassidy's posts, and the equity figure. Then let Cassidy publicly correct herself, in person, in ch8. That turns the cold-open promise ("every single number, out loud and in order") into a payoff instead of a repeat.
+
+## Итог
+Замечания «Required» применены писателем (логика рефинансирования, знание Кассиди, публичное исправление в гл. 8, замена бренда, правки для озвучки). Линтер чист, 9 571 слово ≈ 61 мин.

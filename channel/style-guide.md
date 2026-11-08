@@ -14,10 +14,14 @@
 
 ## Технические правила для озвучки
 - Числа и даты словами: «sixty-eight», «nineteen seventy-nine», «four hundred thousand dollars». Никаких «$», «%», «&», «#».
-- Без аббревиатур, кроме Mr., Mrs., Ms. Писать «Doctor Patel», «Saint Louis», «Avenue».
+- Без аббревиатур вообще, даже Mr. и Mrs.: голос делает после точки лишнюю паузу (замерено: ~0,8 с). Писать «Mister Greene», «Missus Whitaker», «Doctor Patel», «Saint Louis», «Avenue».
 - Без CAPS, без эмодзи, без ремарок в скобках, без заголовков внутри текста главы.
 - Первая строка файла главы — `# Chapter title` (не озвучивается, идёт в таймкоды).
 
 ## Запрещённые штампы (ИИ-клише) — проверяются `tools/lint_script.py`
 little did I know · a testament to · tapestry · in that moment · I let out a breath I didn't know I was holding · the silence was deafening · sent shivers down my spine · every fiber of my being · a wave of (relief/anger…) washed over · I couldn't help but · palpable · delve · navigate (в переносном смысле) · journey (в переносном смысле) · it's worth noting · a mix of · the weight of (his words…) · unspoken · her eyes sparkled · my heart pounded in my chest · time stood still · and just like that · little did they know.
 Любая «фирменная» фраза — не чаще одного раза за эпизод.
+
+## Названия
+- Места, компании, заведения — только явно выдуманные и редкие. Не брать частые названия вроде «Maple Grove»: реальных заведений с таким именем много, а у нас они бывают злодейскими.
+- Повторяющиеся формулы («thirty-one years», «the Blue Kettle») — не чаще 4–5 раз за эпизод.

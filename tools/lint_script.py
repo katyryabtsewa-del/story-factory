@@ -8,7 +8,7 @@ BANNED = ["little did i know", "a testament to", "tapestry", "in that moment", "
           "i couldn't help but", "palpable", "delve", "navigate", "journey", "it's worth noting", "a mix of",
           "the weight of", "unspoken", "eyes sparkled", "pounded in my chest", "time stood still",
           "and just like that", "little did they know"]
-report, total, all_words = [], 0, []
+report, total, all_words, report_counts = [], 0, [], {}
 for p in sys.argv[1:]:
     raw = pathlib.Path(p).read_text()
     lines = raw.splitlines()
@@ -27,6 +27,10 @@ for p in sys.argv[1:]:
     digits = re.findall(r"\d+", body)
     if digits: issues.append(f"digits {digits[:5]} — write numbers as words")
     if re.search(r"[$%&#@*]", body): issues.append("symbols $%&#@* — write as words")
+    abbr = re.findall(r"\b(?:Mr|Mrs|Ms|Dr|St|Ave|Jr|Sr)\.", body)
+    if abbr: issues.append(f"abbreviations {abbr[:5]} — write Mister, Missus, Doctor, Saint…")
+    t31 = low.count("thirty-one years")
+    if t31: report_counts["thirty-one years"] = report_counts.get("thirty-one years", 0) + t31
     caps = [x for x in re.findall(r"\b[A-Z]{4,}\b", body)]
     if caps: issues.append(f"CAPS words {caps[:5]}")
     long_paras = sum(1 for para in body.split("\n\n") if len(para.split()) > 160)
@@ -37,6 +41,9 @@ grams = collections.Counter(tuple(all_words[i:i + 5]) for i in range(len(all_wor
 repeats = [(" ".join(g), c) for g, c in grams.most_common(15) if c >= 3]
 print(f"# Lint\n\nTotal: **{total} words ≈ {total / WPM:.0f} min**\n")
 print("\n".join(report))
+for phrase, n in report_counts.items():
+    if n > 5:
+        print(f"\n«{phrase}» used {n} times in the episode (max 5)")
 if repeats:
     print("\nRepeated 5-word phrases (≥3 times):")
     print("\n".join(f"- «{g}» ×{c}" for g, c in repeats))

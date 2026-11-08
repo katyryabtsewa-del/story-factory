@@ -3,7 +3,8 @@ models/
 __pycache__/
 *.wav
 *.mp4
-episodes/*/audio/
-episodes/*/video/
-episodes/*/cover/flow/
+episodes/*/audio/raw*
+episodes/*/audio/transcript.txt
 research/raw/
+
+episodes/*/cover/flow/

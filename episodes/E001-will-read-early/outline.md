@@ -19,7 +19,7 @@
 ## Chapter 3 — The Man With the Laser Tape
 - Saturday: Kevin and Brittany arrive with a realtor friend in a quarter-zip sweater who "just wants to look." He measures rooms with a laser tape and says "great bones" four times.
 - Over coffee Kevin pitches the sixty-thousand-dollar "car wash franchise opportunity." Diane asks three bookkeeper questions he cannot answer. She says no.
-- Kevin's mask slips for a second ("Dad would have said yes"). Brittany smooths it over and hands Diane a glossy folder for Maple Grove Senior Living: "We booked you a tour Thursday. Just to look."
+- Kevin's mask slips for a second ("Dad would have said yes"). Brittany smooths it over and hands Diane a glossy folder for Larkspur Commons Senior Living: "We booked you a tour Thursday. Just to look."
 - Diane goes on the tour to keep the peace; sharp, funny observations; a resident there tells her, "My kids booked me a tour too. That was four years ago."
 - Hook: back home, Diane finds a page the realtor left under the fruit bowl: a draft listing for 214 Linden Street, "Coming soon — spring."
 
@@ -41,7 +41,7 @@
 
 ## Chapter 6 — Operation Sunset
 - Midpoint. Olivia explains: the old iPad is still signed in to her father's account; she saw the group chat named "Operation Sunset."
-- Diane reads it at the kitchen table while Olivia eats leftover pie: the Maple Grove plan, "list the house in March, spring market," "Tommy gets nothing extra, he's had enough free dinners," "The stove story will work, she's sixty-nine, nobody questions it," and Rachel: "I don't feel good about the doctor thing."
+- Diane reads it at the kitchen table while Olivia eats leftover pie: the Larkspur Commons plan, "list the house in March, spring market," "Tommy gets nothing extra, he's had enough free dinners," "The stove story will work, she's sixty-nine, nobody questions it," and Rachel: "I don't feel good about the doctor thing."
 - Diane's quiet reaction; the line about Tommy hurts most.
 - She photographs every message, tells Olivia not to delete anything and not to tell anyone, and promises to protect her. Olivia asks if she is in trouble; Diane: "Sweetheart, you're the only one in that chat who isn't."
 - Diane decides, calmly. She will not yell, and she will not beg.
@@ -66,7 +66,7 @@
 - Thanksgiving morning: Diane up at five, the turkey, three pies, Walter's table extended with both leaves.
 - Tommy arrives early to help and asks why Harold Greene is coming to dinner. Diane says, "Because Harold has never missed my pie." Tommy studies her and lets it go.
 - Rachel arrives early, alone, nervous; tries twice to say something in the pantry and cannot.
-- Kevin and Brittany arrive dressed up, with champagne and a leather folder. Brittany comments on how much easier life will be at Maple Grove, "no more stairs, Mama Di."
+- Kevin and Brittany arrive dressed up, with champagne and a leather folder. Brittany comments on how much easier life will be at Larkspur Commons, "no more stairs, Mama Di."
 - Dinner: grace said by Tommy; Brittany's sing-song voice; Kevin carving Walter's way, badly; the empty chair at the end.
 - Hook: over pie, Diane taps her glass with a fork. "Harold, I think it's time."
 

@@ -9,7 +9,7 @@ Before writing, read every file you are given: the story bible, the outline, `ch
 
 Rules:
 - Write only the chapters you were asked for, one file each: `script/chNN.txt`, first line `# Chapter title`, then paragraphs separated by blank lines.
-- 1,100–1,300 words per chapter. Check with `wc -w`.
+- 1,100–1,200 words per chapter unless told otherwise. Check with `wc -w`.
 - First person, past tense, the heroine's voice: warm, dry humor, quiet strength, never whiny or cruel.
 - Follow the bible exactly: names, ages, dates, money, places. If the outline needs something the bible lacks, add it to the bible and say so in your reply.
 - Write for the ear (style guide): full natural sentences, clear dialogue tags, numbers as words, no ellipses, few dashes, no clichés from the banned list.

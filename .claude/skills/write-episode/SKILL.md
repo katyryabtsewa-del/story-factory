@@ -5,7 +5,7 @@ description: Write the full script of a chosen episode (story bible, outline, ch
 # Сценарий эпизода
 
 Вход: папка `episodes/EXXX-slug/` с `idea.md`.
-Обязательно прочитай: `channel/story-formula.md`, `channel/style-guide.md`, `channel/audience.md`.
+Обязательно прочитай: `channel/story-formula.md`, `channel/style-guide.md`, `channel/audience.md`, **`channel/variety.md`** (форма рассказа, лимиты, подача) и `episodes/VARIETY.md` (чем отличаться от последних 5 эпизодов).
 
 1. **Паспорт** `bible.md`: героиня (имя, возраст 60–72, город и штат, кем работала, муж), злодей(и), союзники; у каждого — возраст, отношение к героине, 2–3 черты, манера речи. Хронология с годами, все суммы денег, адреса, названия мест. Максимум 8 именованных персонажей, имена на разные буквы.
 2. **План** `outline.md`: число глав по длине из `idea.md` (по умолчанию 60 минут = 8 глав, таблица в `story-formula.md`). Для каждой: название (2–5 слов, английский), 3–6 событий, чем кончается (крючок), целевой объём 1 100–1 200 слов. Проверь скелет из `story-formula.md`.

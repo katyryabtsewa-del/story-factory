@@ -51,7 +51,7 @@ Form B (mystery): the key is introduced in chapter 1 and every chapter answers o
 - No courtroom drama, no police scene, no handcuffs. Possible consequences are discussed, not shown.
 
 ## Timeline
-- Thirty-eight years ago: Ray marries Joan. Tessa born three years later. (Tessa is forty-one now; adjust: Tessa born forty-one years ago; Joan dies twenty-two years ago.)
+- Forty-one years ago: Tessa is born to Ray and Joan.
 - Twenty-two years ago: Joan dies, Tessa nineteen.
 - Twenty years ago: Ray re-keys the courthouse doors and meets Loretta.
 - Nineteen years ago: Ray and Loretta marry; the house retitled in both names.

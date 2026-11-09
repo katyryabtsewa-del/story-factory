@@ -38,7 +38,7 @@ audio story, family story, mother and son story, wedding story, daughter in law 
 ```
 
 ## Закреплённый комментарий
-Nora had given Marco her word-for-word condition: stay quiet unless someone made a fool of her in front of her guests. Was Marco right to walk through the door she left open? Tell me what you think, and where you're listening from tonight. I read every one.
+Marco gave Nora his word to say nothing, unless someone made a fool of her in front of her guests. Was Marco right to walk through the door she left open? Tell me what you think, and where you're listening from tonight. I read every one.
 
 ## Короткое описание (по-русски)
 Американка 67 лет, владелица семейного ресторана, узнаёт от сына, что её еда «неловкая» для свадьбы с богатой невестой, и что ей лучше говорить гостям, будто она «работала в общепите». Она выясняет, что свадьбу готовит её бывший посудомойщик, а ныне звёздный шеф, в чьей компании ей принадлежит сорок процентов. Она просит его молчать, но на свадьбе сын шутит про «профессионалов», и шеф берёт микрофон.

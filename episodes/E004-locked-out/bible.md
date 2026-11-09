@@ -39,7 +39,7 @@ Form B (mystery): the key is introduced in chapter 1 and every chapter answers o
 ## Money (keep exactly)
 - Home-equity loan taken out in Ray's name against the house, ten months ago: one hundred eighty thousand dollars. Lakeshore's rate is steep; the balance with fees and interest is now one hundred ninety-one thousand dollars. Lakeshore sent a "notice of default" letter to the house, and Tessa has been intercepting the mail.
 - Tessa used the money: ninety-five thousand on the second building and the spa wing, forty-eight thousand to pay off a previous private loan, thirty-seven thousand on payroll and rent to keep Happy Tails open.
-- Ray's own repayments after he found out: thirty-one thousand from the shop savings across seven months, in small payments the lender accepted without question.
+- Ray's own repayments after he found out: thirty-one thousand from the shop savings across seven weeks (mid-November to mid-December), in payments of three or four thousand that the lender accepted without question. (Changed from "seven months": Ray learned of the loan only in November.)
 - The shop and its inventory: Ray's will, in the box, leaves it to Tessa (and gives Gus a first right to buy in or manage). Valued at about ninety thousand dollars.
 - Loretta's own money: a modest pension and savings (about sixty-two thousand dollars). Ray never touched it.
 
@@ -61,7 +61,7 @@ Form B (mystery): the key is introduced in chapter 1 and every chapter answers o
 - November (two months before the funeral): Lakeshore's default notice arrives at the shop address (Ray's business mail). Ray opens it, drives to Happy Tails, learns the truth. Tessa breaks down. Ray decides to keep it from Loretta, partly for Tessa and partly because of his heart. He pays what he can. He has Tessa sign a one-page acknowledgement of the debt in his own writing. He writes two letters.
 - December: Ray is hospitalized with heart failure; dies a few days into January (eleven days before the funeral).
 - Saturday, January eleventh: the funeral. Tessa has a locksmith change the locks while the family is at the cemetery lunch.
-- Following week: Loretta stays with Winnie. Monday: the bank. The week after: the meeting. Late February: the terms.
+- Following week: Loretta stays with Winnie. Sunday January twelfth: bags on the porch. Monday the thirteenth: church basement. Tuesday the fourteenth: Tessa's form letter, Voss's card. Wednesday the fifteenth: the bank (changed from Monday so the whispers chapter fits). Thursday the twenty-third, ten in the morning: the meeting (lock re-keyed at five thirty that morning). Terms signed the same day. Late February: Lakeshore withdraws.
 - June: epilogue. Loretta's garden, Tessa cuts a new key.
 
 ## The box (what is in it, exactly)
@@ -82,3 +82,17 @@ Form B (mystery): the key is introduced in chapter 1 and every chapter answers o
 - Details of the locksmith trade (pin tumblers, bump keys, key blanks, deadbolt backwards) make it feel real: keep them short, in plain words.
 - Use "Missus," "Mister," "Doctor," no abbreviations. Numbers and dates in words.
 - No cooking subplot. Loretta eats a sandwich and a lot of tea, that is all.
+
+
+## Added while writing the chapters (writer's additions, all consistent with the above)
+- Ray calls Loretta "Lo". Her full steno-job line: thirty-three years, County Court of Common Pleas.
+- The key tag in the box: the spare house key on Ray's brass ring carries a paper tag with one letter, T. It is NOT L-stamped (changed from the earlier note). Ch9: Loretta gives it to Tessa at the third Sunday supper; it no longer fits the door. Final key in June is cut by Tessa on Ray's machine, stamped L and T.
+- Why Merrow Valley Bank can open a fraud review: Lakeshore's loan money was wired into a Happy Tails account at Cecilia's own branch, and Ray's seven weeks of payments went out of the shop account there. Cecilia also types a one-page letter comparing Ray's black-ink signature card to the blue-ink loan paper (the R).
+- Gus keeps in a shop drawer a brass cylinder pinned with a tag "Birchwood", keyed by Ray to Loretta's key "in case someone is ever locked out of their own house". Gus swaps it into the front door at five thirty on the meeting morning. Gus also made a new leather leg strap with two brass rivets for the steno machine.
+- Gus learns of the box key because Ray said two summers ago, "If anything happens, the box key is on my coat."
+- Ch4: Ray had Loretta sign the box card three years ago, on the courthouse steps at their Wednesday sandwich lunch, "for the shop insurance". Ray's signature on the bank card is in black ink.
+- Ch3: Tessa texts that a buyer wants the house, closing end of February. Tessa had the shop's card account frozen by phoning the processor, and took Ray's truck (returned to the shop in February). Her form letter is headed "Kessler Estate Services", generated from a free online template site.
+- Voss's damning exchange (ch7): "Who verified the signature? Nobody, in the sense you mean. We lend on the house. Who signs is between the family. That's the whole business model. People in a hurry don't want questions." He leaves "to consult counsel" at ten forty-one, leaving a folded peppermint wrapper. Voss later "exploring opportunities in another state".
+- Terms Loretta writes on a legal pad (ch8), seven in all: bank fraud review against Lakeshore; Tessa's full written statement; Loretta will not ask anyone to press charges as long as Tessa keeps every line; shop to Tessa with Gus managing, shop earnings and savings repay what Ray promised; sell the spa building, close the second wing, keep the original Happy Tails, see a credit union debt advisor (Monday at nine); Tessa tells the church funeral committee the truth; supper every second Sunday for a year.
+- The "very old woman" in the church basement (unnamed) later mails Loretta a card: "I thought as much."
+- Time note: the bible says Ray died "a few days into January" and also "eleven days before the funeral" on January eleventh. The chapters say only "eleven days" and never give the date of death.

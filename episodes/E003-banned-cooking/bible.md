@@ -49,3 +49,13 @@ Ceremony at four on the lawn. Cocktail hour. Dinner at six: first course, beet a
 
 ## Ending (November)
 Courtney brought a store-bought pie and a handwritten apology note about "cute." Gregory takes the Saturday dish shift at Nora's table every other week. Nora hosts Thanksgiving for fourteen; Richard brings a case of mustard and a folding table; Courtney peels potatoes; Gregory eats the kringle and cries a little. Nora's scholarship; Saturday classes at Corso for people over fifty-five ("Pruitt's Table Saturdays"); Friday fish fry returns to Corso for one night a month.
+
+## Additions made while writing (ch. 1-8)
+- Gregory believes Nora lent Marco "a small sum, long repaid"; he never knew about the forty percent or the yearly check.
+- Marco started at Pruitt's Table in the fall of nineteen ninety-six; Sam witnessed the Corso papers at the kitchen table. Marco was in Spain most of April and Priya signed the Ashford contract alone, so Priya spotted "Missus Nora Pruitt, mother of the groom" on the family list; she and Nora meet for the first time in late May.
+- Contract clause nine: Priya's margin note "Added at client's request, C. Ashford". At the wedding Priya points out that Nora, as an owner, is not "family of the couple" and may enter the kitchen.
+- Courtney's own backstory: Richard's daughter, teased in school as one of "the hardware people"; she wrote clause nine herself.
+- Table fourteen companions: two of Gregory's bank colleagues and a quiet cousin of Richard's (all unnamed, to keep the cast at eight). Courtney's mother appears unnamed in the front row.
+- The reveal: Gregory himself invites Marco to the microphone ("Come take a bow!"); Marco breaks his promise to Nora on purpose and says so. Nora's three sentences are in ch. 6.
+- At the terrace Nora gives the couple the card without the check: inside is her pan gravy recipe card and the line "come to Spaight Street on a Saturday and bring an apron." The forty thousand dollars goes to the Pruitt's Table Scholarship at Madison College, signed Monday after the wedding.
+- Narration is on the Sunday before Thanksgiving, so Thanksgiving dinner for fourteen is still ahead; Richard has already delivered the mustard and folding table, Courtney is due Wednesday to peel potatoes. The kringle crying scene happened "last Saturday" at a Pruitt's Table Saturdays class at Corso (classes began in October; twenty-two students; Gregory washes dishes every other Saturday). First-Friday fish fry at Corso also began in October.

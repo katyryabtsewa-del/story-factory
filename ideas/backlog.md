@@ -13,7 +13,7 @@
 | 4 | 🎬 | My Children Fought Over My Will While I Was Still Alive. So I Invited Them to Hear It Early. | трое взрослых детей | «чтение завещания» при жизни: условие в трасте | 19 |
 | 5 | 📺 | For Six Years I Secretly Paid My Son's Mortgage. Then His Wife Told Me I Wasn't Family. | невестка и сын | тайная кормилица перестаёт платить; ипотека на её имя | 19 |
 | 6 | 🎬 | My Son Banned My Cooking From His Wedding as 'Embarrassing.' Then the Caterer Recognized Me. | сын и его невеста | скрытый статус: она совладелица ресторана, шеф — её ученик | 19 |
-| 7 | ✅ | At Christmas, My Granddaughter Slipped Me a Note: 'Grandma, Don't Sign Anything They Give You.' | дочь и зять | фальшивая доверенность, ловушка с адвокатом и внучкой | 18 |
+| 7 | 🎬 | "Don't Sign. The First One Wasn't You." A Sticky Note Under the Clipboard Stopped Me With the Pen Already in My Hand. (переписана: нотариальная помощница вместо внучки, январь; эпизод E006) | зять и дочь (используемая) | поддельная доверенность, метка подписи, помощница нотариуса, ловушка | 18 |
 | 8 | 🎬 | My Son Tried to Have Me Declared Unfit So He Could Sell My House. The Judge Asked Me One Question. | сын | суд об опеке, судья и один вопрос | 18 |
 | 9 | ✅ | My Daughter-in-Law Threw Out My Old Recipe Box. Inside Was the Deed She'd Been Searching For. | невестка | документ и письмо мужа в коробке с рецептами | 17 |
 | 10 | ✅ | They Left Grandma Alone at the Lake House for Thanksgiving. By Friday Morning, I'd Sold It. | дети и внуки-подростки | дом у озера — её, продан за одну ночь | 17 |

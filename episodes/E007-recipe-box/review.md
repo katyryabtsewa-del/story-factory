@@ -116,7 +116,7 @@ Overall the script is clean, warm and consistent in voice, with good mail-carrie
 8. ch05/ch01: Greg arrives at the dump after reading the kitchen note: "The kitchen light was on when I got there." He lives ninety minutes away; Winnie left the house at about five. For him to reach the house, then the dump, and stand ten minutes after seven, he must have left West Des Moines before four thirty. Give him a reason (he had not slept after Monday, Tessa told him at midnight what was in the dumpster) or say he stayed in town Monday night. Also, "yellow rain jacket still creased from the store" implies an early-morning shopping stop; one clause explains it.
 9. ch07, Hilda: "I turned my hearing aid off so I wouldn't spoil it" contradicts "I heard humming". Fix: "I turned the hearing aid up so I wouldn't miss it" or have her describe feeling the tune through the roof.
 10. ch06 passbook: the Route Fund "never on a whim", but ch06 also shows Winnie selling a band saw (after saying in ch03 "I am not selling Walt's tools"). Fine as humor, but make it a visible choice, to be consistent.
-11. Brand check: "Prairie Home Realty" (echo of a well-known radio show title and probably a real company name), "Willow Pointe" and "Clear Space by Tessa" sound like real businesses. Style guide asks for explicitly invented, rare names; consider "Larkspur Home Realty" or similar, "Willow Pointe" to something rarer.
+11. Brand check: "Prairie Home Realty" (echo of a well-known radio show title and probably a real company name), "Willow Pointe" and "Clear Space by Tessa" sound like real businesses. Style guide asks for explicitly invented, rare names; consider "Cobb Hill Realty" or similar, "Willow Pointe" to something rarer.
 
 ### Repetition and style
 12. "Hilda... You're thin" repeated three times (ch01, ch04, ch08). The ch08 callback is good; the first two are the same joke twice in twenty minutes. Cut one (see Must fix 9).
@@ -153,3 +153,19 @@ Warm, distinctive voice and setting, a likeable non-villain, a lovely central ob
 ## The one change that would most improve retention
 
 Rebuild the first minute and the Saturday scene around the same object: in ch01 name card 117 and the unknown "something behind it" so the listener spends the next half hour waiting for the letter, and in ch08 let the neighbors bring fresh handwritten copies of their ruined cards and tell Walt's story out loud while Tessa stands on the lawn and Greg ends the listing in public. That gives the first ten minutes a question and the last ten minutes the public, earned payoff the formula requires.
+
+
+---
+
+## Revision log
+
+Second pass on all eight chapters (script now 9,514 words by lint, every chapter 1,139 to 1,231; lint clean).
+- Renames everywhere (script, bible, outline, idea): Winnie to Bernice "Bernie" (Walt says "Bern", the letter opens "Bern,"), Tessa to Marnie (Clear Space by Marnie), Hilda Voss to Hilda Tolliver, Del Okafor to Del Haskell, Prairie Home Realty to Cobb Hill Realty, Willow Pointe to Fieldstone Terrace. Walt whistles two bars through his teeth; "Red River Valley" named once (ch07).
+- Must fix 1: card 117 and the hidden-message mystery in the first minute of ch01; tiny pencil dots seeded in ch01. 2 and 4: Walt's "She's scared of something, Bern" scene (ch02, echoed ch03); letter softened to "If it was Marnie, don't be mad at her."
+- 3: Tuesday gap closed (new padlock, helpers at five thirty Wednesday, Bernie waiting at the door, remembers the date herself in ch05; Del: "go home and sit on it").
+- 5 and 16: Thursday planted (ch02 barn coat, ch06 ledger dates all Thursdays, ch07), line "I'm busy on Thursdays", Thursday Route is a dish carried porch to porch, not a table.
+- 6 and 7: Greg withdraws the listing aloud; Bernie's one-sentence reason for leaving sign and lockbox (ch06 and ch08); Hilda tells the crowd about the roof, Dewey and Ila one line each.
+- 8: neighbors bring fresh handwritten cards, Marnie offers to laminate. 9 and 10: Monday compressed in ch01; shelf now full of labeled white baskets; Hilda's "look in your cupboards" explained ("I was afraid she was right").
+- 11: fund explained (cost-price lumber and hardware, Walt's summer pay, first ledger line 2009, sixteen years everywhere, Bernie beneficiary in pencil). 12: box count replaced by a lost count.
+- 13: three index cards quoted, lathe buyer refunded, mugs returned by Marnie with "I'm sorry," Fieldstone Terrace deposit call from Greg (ch07). 14: ten months, forty-eight years, band saw on the tag list, porches not households, Pruss and Alden families named. 17: Misc, P.S., the broken line, and the "let me" openings fixed.
+- Nice to have taken: 1 (Greg's call), 3, 4 (tune named), 5, 6, 7 (tape loosened), 8 (Greg's night), 9 (hearing aid turned up), 10 (band saw sale as her own choice), 11, 14, 15, 17, 18, 19, 20. Not taken: 13 in part, 21 to 23.

@@ -17,7 +17,7 @@
 | 8 | 🎬 | My Son Tried to Have Me Declared Unfit So He Could Sell My House. The Judge Asked Me One Question. | сын | суд об опеке, судья и один вопрос | 18 |
 | 9 | 🎬 | My Daughter-in-Law Threw Out My Recipe Box. Behind Card 117 Was Walt's Last Letter. (переписана: письмо мужа вместо документа, героиня-почтальон; эпизод E007) | невестка | документ и письмо мужа в коробке с рецептами | 17 |
 | 10 | 🎬 | They Left Grandma Alone at the Lake House for Thanksgiving. By Friday Morning, I'd Sold It. | дети и внуки-подростки | дом у озера — её, продан за одну ночь | 17 |
-| 11 | ✅ | My Husband Left Me at Sixty-Five for His Yoga Teacher. He Forgot Whose Name Was on the Business. | муж | бизнес и пенсионный счёт оформлены на неё | 16 |
+| 11 | 🎬 | My Husband Left Me at Sixty-Five for His Yoga Teacher. He Forgot Whose Name Was on the License. (переписана: лицензия-квалификатор вместо скрытого владения; эпизод E009) | муж | бизнес и пенсионный счёт оформлены на неё | 16 |
 | 12 | 💡 | My Sister Sold Our Mother's Piano the Week After the Funeral. The Buyer Called Me From My Own Front Porch. | сестра | форма B/E: в пианино найдены письма матери; частичное примирение | 17 |
 | 13 | 💡 | The Church Committee Voted to Remove Me From the Kitchen After Forty Years. Then a Food Bank Truck Pulled Up. | председатель комитета | форма A с юмором: поддержка прихожан и благотворителей | 17 |
 | 14 | 💡 | My Neighbor Reported My Garden to the HOA for the Fourth Time. This Time I Read the Bylaws Out Loud. | сосед | форма D, лёгкий тон: устав и собрание жильцов | 16 |

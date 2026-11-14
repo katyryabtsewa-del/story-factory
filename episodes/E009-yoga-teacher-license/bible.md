@@ -29,3 +29,15 @@ Narrator: Marilyn "Mimi" Tolliver, 65, first person, past tense, telling it the 
 - Ray's "Yes ma'am, Miss Mimi."
 - Mimi never shouts; her weapons are punctuality, receipts, a very polite voice, and "Bless his heart."
 - Avoid names/towns: Maple Grove, Larkspur, Fieldstone. Business, agency and town names are fictional.
+
+## Added while writing the script (details the chapters now rely on)
+- Gene Pruitt: Dale's retired partner, old license holder, retired to a fishing camp on the Tensaw River (ch2; unnamed in the original bible).
+- Mimi's Medicare supplement and prescription coverage rode on the company health plan; Dale's cut-off letter ends it with the month (ch3).
+- Places: Dockside Diner (the napkin offer, Thursday, September eleventh), Bay Street Market (grocery where Skye approaches Mimi), the bakery under Priya's office is on Bay Street, Pelican Bluff subdivision (Dale in the rented golf cart), Mobile BayBears cap stays Ray's.
+- Dale's offer: written on a napkin first, then a typed letter from his lawyer on Monday (ch3).
+- Ray is six feet four inches; kept the 2019 receipt (seventy-one dollars, steel-toe boots, signed by Dale) in his wallet (ch4).
+- Wanda Pickett has worked the counter nineteen years; she also helps proctor the Montgomery exam sitting and reports the November eighteenth result to Mimi (ch8).
+- Resignation mechanics in ch7: signed at nine-oh-four; Mimi photographs the page and texts it to Priya, who files it through the board's system and replies "Filed." Ray hands Mimi a copy-room box with the mug, the box fan and the framed certificate.
+- The two Houston gentlemen stay unnamed (older and younger). Tripp sends Mimi a short apology note after the deal is declared dead on Thursday, October second.
+- Employee count after: of eleven on the payroll, nine left by Thanksgiving (Ray first, one to Pensacola, seven more followed Ray and Mimi, eight with Ray). Mimi's daughter flies in December ("bring a hat" callback).
+- Gaudet Blue Water Service office is "a small office by the marina"; Odessa pays the first check in her bathrobe.

@@ -43,3 +43,14 @@ A thirty-point memory screening: ten minutes of questions, drawing a clock, reme
 
 ## Ending state
 Peg's house stays hers. Dana repays nothing to Peg but the two thousand five hundred dollars comes back from Silverleaf's refund. Dana contacts every family she placed at Silverleaf. Condition for Peg's forgiveness: Dana comes on Thursdays and sits with the residents. Conditional forgiveness, not a hug.
+
+## Additions made while writing the script (writer, E010)
+- Birch Court headcount: nineteen residents plus Peg = twenty after ten p.m., one aide (Imelda). Outline/idea said "twenty-four"; changed to match the bible's nineteen of thirty beds. Imelda: "seven more beds by end of December, now six with you" (lender wants twenty-six).
+- Cyril's paces: forty-one from dining room to keypad door (bible said forty; outline said forty-one, outline used). Nine years in Birch Court. Left wrist cracked, blue cast.
+- Peg's notebook line is written out as "Mister Pratt turned the form over before he scored it" (no initials, for the ear).
+- Dana's bank deadline: the banker will not sit down unless seventy-five hundred dollars in good faith arrives by October thirtieth; balloon (one hundred ninety thousand) still due December thirty-first. In December the banker stretches the balloon over three years.
+- Timing: nine-one-one call at 2:44 a.m. Wednesday (fall about 2:40), ambulance 2:55. Peg signed in at 9:55 a.m. October eleventh. Imelda's night shift ends 7:00 a.m. (Sunday October 18 talk in her car at 7:05 is approximate). Peg stays four extra nights at her own expense (October 18 to 22).
+- Sources of the notebook proof: whiteboard at the nurses' station (Director of Nursing away, Denver, October ninth through twelfth), copied Monday; stamp "Reviewed and Approved" dated October eleventh, 10:20.
+- Cyril's niece (unnamed) lives in Pueblo; Cyril goes home with a lift chair by Christmas. Imelda moves to days; second aide added at night.
+- Named-character count stays eight (Peg, Dana, Gideon, Imelda, Cyril, Lu, Fern, Hank). Unnamed: Dana's husband, director of nursing, dispatcher, surveyors, receptionist, records coordinator, dietary manager, day aide, Cyril's niece.
+- Ombudsman Thursday round is in a different building on the other side of the valley (not Silverleaf).

@@ -135,3 +135,31 @@ Strengths: a calm, specific narrator; the notebook and timing evidence; the 911 
 Weaknesses: soft ch02 and ch06 (about sixteen minutes with little pressure); a quiet reckoning in ch07 whose key beat (the nurse's answer) is muddy and whose inspection timing looks like luck; thin Gideon until the epilogue; repeated gesture endings; name and catchphrase overlap with E006 and E008.
 
 **The one change that would most improve retention:** in ch06, turn the middle of the story into a visible plan with a ticking clock. Peg tells the listener (and Fern) that Thursday at ten is when the folder gets signed, that Dana does not know what is coming, and that the inspection may or may not arrive. End ch06 on that line instead of "wrote the time in the margin". It makes ch07 something the listener waits for, fixes the coincidence problem (item 1) and the Dana-cost problem (item 11), and removes the weakest chapter ending.
+
+
+---
+
+## Итог правок (applied)
+
+Required items:
+1. Inspection timing: ch06 Odette files Monday with Peg's permission, cannot promise a date, Peg plans Thursday as if nobody comes, Odette waits in the lobby; ch07 surveyors are a bonus, Odette stays in the lobby, not behind the surveyors.
+2. Keypad: tones learned by ear (planted ch03, paid off ch04 and ch06 Sunday at seven); Gideon glad to let her sign out (ch06); in ch04 Gideon and the paramedics come through the keypad door, no elevator. ch02 and ch03 also show the Arrivals sheet already listing Birch Court.
+3. Director of nursing now says "I did not review this, and I did not stamp it. The stamp is kept at the nurses' station, where anyone can reach it." She says she knew Peg only from the census, drove back Tuesday, and never saw a fall report.
+4. ch04 comma typo fixed.
+5. Ambulance nine minutes (ch04) and two fifty-three (ch05, ch07 timeline, bible).
+6. Husband's line is concrete about whose card it was.
+7. Cyril is brought down to the lobby by Imelda ("I asked to see the front door"), with a forty-one paces to twenty-two paces line.
+8. Lu trained in nineteen ninety, "a new hire with a laugh like a screen door"; bible updated.
+9. Renata's ch08 read-back covers the doctor's-office calls and the realtor, named Carla (mention only).
+10. Catchphrase changed to "I'm just taking it off your plate" in ch01, ch06 and bible (names Renata and Odette were already done).
+11. ch06: Peg states she did not warn Renata, why, and what it cost; ch08 Renata asks about it and Peg owns it.
+
+Optional items applied:
+- "The time in the margin" is now four literal uses (ch01 setup, ch05 ending, ch07, ch08) and ends only one chapter; ch01 now ends on the card hook; ch02 ends on the Arrivals sheet hook; ch06 ends on the visible plan.
+- "Let me read that back" trimmed (ch02, ch04, ch05, ch07 cut or varied); ch07 read-back dramatized with Gideon and Renata interrupting, the lender sentence quoted back, and Peg's power-of-attorney point; "I was told it would be written up" fix.
+- "Seven-five" spoken as "seventy-five hundred dollars."
+- ch08: Cyril goes home with his niece (ramp, nurse, dog) and his card reads fourteen paces; Renata's read-back is shown in her own sentences with one correction.
+- Also: gesture of "ptarmigan" replaced by "marmot"; heteronym "read" rewritten in ch02, ch05, ch06; "wound" changed to "wrapped"; ch03 line about the laugh simplified; ch01 "within the hour" removed.
+- Not done: items B (partly done: first "paperwork" use cut), E, H, I first line, J (except spoken number), K, M.
+
+Lint after edits: 9473 words, every chapter 1126-1197 (ch01 is 1126, ch04 and ch07 are 1197), repeated "the time in the margin" x4.

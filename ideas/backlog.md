@@ -7,7 +7,7 @@
 
 | # | Статус | Название | Злодей | Механизм расплаты | Оценка |
 |---|---|---|---|---|---|
-| 1 | ✅ | At My 70th Birthday, My Son Handed Me a Nursing Home Brochure. He Didn't Know I'd Sold the House. | сын и невестка | дом уже продан/в трасте | 18 |
+| 1 | 🎬 | At My 70th Birthday, My Son Handed Me a Nursing Home Brochure. He Didn't Know I'd Sold the House. (переписана: дочь-«консультант по размещению», неделя пробного проживания, липовый скрининг, омбудсмен; эпизод E010) | дочь и директор приёма | недельное «пробное проживание» + блокнот + омбудсмен | 18 |
 | 2 | ✅ | My Daughter-in-Law Banned Me From Christmas. Three Days Later, She Found Out Who Owns Her Building. | невестка | героиня — владелица здания | 18 |
 | 3 | 🎬 | My Stepdaughter Changed the Locks During My Husband's Funeral. She Forgot About the Safe Deposit Box. | падчерица | ячейка с документами мужа | 17 |
 | 4 | 🎬 | My Children Fought Over My Will While I Was Still Alive. So I Invited Them to Hear It Early. | трое взрослых детей | «чтение завещания» при жизни: условие в трасте | 19 |

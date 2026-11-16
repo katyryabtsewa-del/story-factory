@@ -1,0 +1,53 @@
+# Twelve Forty-Six
+
+I pulled up to the curb on a side street off Ravenswood at twelve forty-six in the morning, with Dmitri's whisper still in my ear and the temperature on my dashboard reading nine below.
+
+The Ostrander is a big, dark, square brick building with a courtyard in the middle, six floors of tall windows, and a stone arch over the front door. Every window was black, except for a few where somebody had lit a candle or turned on a phone. Isaiah was waiting under the arch with a flashlight in one gloved hand, in a long navy coat with the collar turned up.
+
+"Missus Rudd," he said, and he took my bag, though I told him I'd rather keep it. "I'm sorry. I'm so sorry about the hour."
+
+"Isaiah, I drove here on purpose. Where's the basement?"
+
+The lobby was as cold as a church. The gas fireplace stood dark against the far wall, and the marble floor gave off a chill I could feel through my boots. I took in all of it as we walked, the coats on the people sitting in the lobby chairs, the stairwell door on the north side, and the quiet, which is the worst sound a boiler room has. Then we went down the back stairs, past a cage of old bicycles, to the room I'd last seen with a bucket in the doorway.
+
+Dmitri stood in front of Boiler One with his sleeves soaked to the elbow. He was a thin young man with a dark, scraggly beard, and his face had the strained politeness of a person who is trying not to cry in front of a customer. "Ma'am," he said. "Thank you for coming. I didn't want to bother you."
+
+"You're not bothering me, you're hiring me, and I work cheap." That earned me half a smile. "Now I'm going to sit down."
+
+I sat on an upturned bucket with my coat on and my glasses on their cord, and I did not touch a single thing. This is the first rule I taught every apprentice I ever had. When something is broken, you look at all of it before you lay a hand on any of it, because your hands will want to fix the first thing you see, and the first thing you see is almost never the thing.
+
+"Tell me the last four hours," I said. "Start to finish, and don't leave out the parts that make you look bad."
+
+He told me. The cutoff had locked out at twelve minutes past nine, he had reset it, it had run a quarter of an hour, and it had locked out again. He had reset it a second time. Then the third lockout, which was the one he called me about. In between, the north wing had gone cold and the pump had begun to groan.
+
+While he talked, I looked. Boiler One was a green steel cylinder as big as a delivery van, built in nineteen ninety-eight, and it was carrying all ninety-six apartments by itself. Next to it, Boiler Two stood cold and silent with a red tag wired to its door, the insurance inspector's mark from October. The feed pump, which pushes water back into the boiler, was running hot and wheezing, and a thin glaze of water shone around its shaft. The condensate tank was full to the lip. And on the side of the boiler sat the cutoff with its cover off, and in the bottom of the float chamber lay the black pudding Isaiah had described, drying in a spoon.
+
+"Where's Mister Ruiz?" I asked. He was the technician from the service company, the one Dmitri was allowed to call, now that there was no contract and every call cost money.
+
+"He's stuck on the highway with a truck in a ditch," Dmitri said. "He can't be here before first light."
+
+"Then it's us three, and it's a long night." I stood up. "I have three rules, and I'll say them once. Nobody lies about what time it is. Nobody does anything alone. And nobody touches a valve without saying its name out loud, so the other two know where you are."
+
+Isaiah gave a small salute, which I think was the Navy in him. Dmitri nodded very hard.
+
+The first thing was the blowdown. A blowdown is when you open a valve at the bottom of the cutoff and let the boiler push its own dirty water out through a drain, to flush away the sediment. I put Dmitri's hand on the valve and stood behind him, with Isaiah at the sight glass.
+
+"Blowdown valve on the low-water cutoff," Dmitri said. "Opening."
+
+The roar was tremendous. It went on for fifteen seconds, a long, rushing howl, and out of the drain pipe came water as black as coffee grounds, and after that, gradually, water the color of tea, and then, at last, clear. "Closing," Dmitri said, and the room went suddenly, wonderfully quiet.
+
+"Now relight," I said.
+
+The burner caught with a soft thump. Blue flame showed through the little window. The pressure needle rose and the glass held steady, and for eleven minutes the three of us stood there like people watching a pot. Isaiah wrote the time on his hand.
+
+Then the feed pump let go.
+
+There was a crack, and a spray of hot water came out around the shaft in a thin, hissing fan, and the whole machine shuddered and went dead. The pump seal had failed, the one small ring that keeps water from escaping around a spinning shaft. Without a pump to feed the boiler, the water level in the glass began to drop, and the cutoff did exactly what it was built to do. The burner went out, and the gasp ran through the pipes, and then the silence came back, the bad one.
+
+I thought of Ferris then, because I always do when a night goes wrong. He used to come home from an ice storm with his hands raw and his lashes white, and he'd say the same thing at the kitchen table, whatever the job. You do the next right thing, Connie, he'd say, and you say it out loud, so the next fella knows where you are. I had always thought of that as a lineman's habit. Somewhere along the way it had become mine.
+
+I was reaching for the pump switch when Isaiah lifted his head.
+
+"Missus Rudd," he said. "Listen."
+
+It was coming down through the pipes, from five floors above, faint and metallic and unmistakable, the sound of knuckles and pans and canes on a riser. "The folks on six," he said, "are knocking on the pipes."

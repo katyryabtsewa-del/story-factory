@@ -1,11 +1,11 @@
 # E011 — пакет загрузки
 
 ## Название (основное)
-"Mrs. Rudd, It's Making That Sound Again." My Daughter-in-Law Banned Me From Christmas. I Drove to Chicago Anyway.
+"Mrs. Rudd, It's Making That Sound Again." She Banned Me From Christmas. I Drove to Chicago Anyway.
 
 Запасные:
-- Would You Drive 160 Miles in Minus Nine Degrees for the Daughter-in-Law Who Banned You From Christmas?
-- My Daughter-in-Law Listed Me as "Overflow, Optional" for Christmas. Then the Doorman Called Me at 9:44 p.m.
+- Would You Drive 160 Miles in the Cold for the Daughter-in-Law Who Banned You From Christmas?
+- She Listed Me as "Overflow, Optional" for Christmas. Then Her Doorman Called Me at 9:44 p.m.
 
 ## Описание (английский)
 On the Friday after Thanksgiving, Connie Rudd opened a family email called "Christmas Run of Show" and found her name under the heading "Overflow, optional." She is sixty-nine, a retired hospital boiler engineer from Fort Wayne, and three weeks earlier she had said something at her daughter-in-law's condo board meeting that nobody wanted to hear. On the coldest night of the year, at nine forty-four, the phone rings in her kitchen. The caller is a doorman who has only one reason to dial her number.

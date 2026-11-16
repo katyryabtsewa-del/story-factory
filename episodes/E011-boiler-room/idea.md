@@ -1,0 +1,17 @@
+# E011 — idea
+
+**Title (working):** "Mrs. Rudd, It's Making That Sound Again." My Daughter-in-Law Banned Me From Christmas. I Drove to Chicago Anyway.
+
+Length: 60 min
+
+**Logline:** Connie Rudd, 69, spent thirty-four years as a stationary engineer, the person who keeps a hospital's boilers running in Fort Wayne, Indiana. In early December her daughter-in-law Vanessa, a cold, ambitious asset manager in Chicago, emails the family a spreadsheet called "Christmas Run of Show": Connie is listed under "Overflow, December 27, ninety minutes, optional." Three weeks earlier Connie had embarrassed Vanessa by writing to the condo board about the knocking radiators in their 1927 steam-heated building. On the night of December 22, at minus nine degrees, the building's doorman calls her: "Mrs. Rudd, it's making that sound again." She drives a hundred and sixty miles through the cold, uninvited.
+
+**Variety plan (idea 2, rewritten per variety.md п.7; the original "hidden building owner" mechanism was dropped because E008 already used hidden ownership and a third festive scene would break the limit):** NO hidden ownership (Connie owns nothing there); NO grandchild ally; NO lawyer reveal; NO document read aloud at a party; NO festive scene (the story is the crisis night of December 22–23 and the open residents' meeting; Christmas itself is only a quiet epilogue). Heroine is a retired stationary engineer / boiler operator (new profession, a hands-on trade, not a cook), Indiana plus Chicago in a polar cold snap (new place/season), villain is a daughter-in-law who is a cold careerist (per п.7), not a monster. Form C: double timeline (the night of the failure interleaved with how it got here: the November visit, the email, the board meeting, thirty-four years in boiler rooms, her late husband Ferris). Tone: tense, practical, with a few dry laughs. Ending: partial reconciliation with her son and a hard, fair conversation with Vanessa; new life (she trains apprentices and becomes the building's volunteer "boiler godmother").
+
+**Villain:** Vanessa Ames Rudd (38), regional asset manager for a real-estate firm, treasurer of the Ostrander condominium association. She is not cruel for fun. She is allergic to anything that makes her look unprepared, and she and Neil plan to list their unit in spring. To keep the sale price and the monthly assessment clean she pushed the board to defer the engineering report's recommendation (replace the second boiler, restore the service contract) "until after the first quarter." She dismissed her mother-in-law's November warning as "the boiler thing."
+
+**Mechanism of payback:** not a trick, not a document reveal. Competence plus witnesses: Connie keeps the failing boiler going through the night with the building's young engineer, the doorman and the neighbors; in the morning ninety-six households know exactly who did what and what had been deferred. The residents' own open meeting, not Connie, decides what happens next.
+
+**Allies:** Isaiah Penn (doorman, 61), Dmitri Lazar (27, the building's only engineer, afraid for his job), Esther Bloom (84, third-floor neighbor with a sharp tongue). Vanessa's boss and fellow resident Graham Tolliver is a fair but hard man who has to decide what he now thinks of his asset manager.
+
+**Ending question for the listener:** if someone you love has told you not to come, but you can hear the sound they can't, do you go?

@@ -2,7 +2,7 @@
 
 The phone rang at nine forty-four on Monday night, and I knew who it was before I picked it up, because only one man in Chicago had ever promised to use my number, and he had promised to use it only if something was truly wrong.
 
-I was standing at my kitchen counter on Hessen Street in Fort Wayne, Indiana, in my stocking feet, with the space heater ticking beside the table. I don't trust that space heater. After thirty-four years in the boiler plant of a hospital, I know what a cheap heating element does to a rug, so I keep it three feet from anything that burns and I shut it off every time I leave the room. The wind was leaning on the back door, and the radio had promised minus nine degrees before morning, with gusts. That is the kind of number that makes a woman with my background stop whatever she's doing and listen to her house.
+I was standing at my kitchen counter on Hessen Street in Fort Wayne, Indiana, in my stocking feet, with the space heater ticking beside the table. I don't trust that space heater. After thirty-four years in the boiler plant of a hospital, I know what a cheap heating element does to a rug, so I keep it three feet from anything that burns and I shut it off every time I leave the room. The wind was leaning on the back door, and the radio had promised minus nine degrees before morning, with gusts, the kind of number that makes a woman with my background stop and listen to her house.
 
 "Missus Rudd," a slow, deep voice said. "It's Isaiah, at the Ostrander. I'm sorry to call so late. It's making that sound again."
 
@@ -18,7 +18,7 @@ My son Neil answered that email with one line to everyone. It said, Looks great,
 
 I should tell you who was standing in that kitchen. My name is Constance Rudd, but everyone calls me Connie, and I was sixty-nine years old. I retired four years ago as chief operating engineer of the plant at Saint Brendan's, which means that for a long time the heat, the hot water, and the steam that sterilized the surgical instruments were my business, down in a basement where people only visit when something is wrong. My husband Ferris was a lineman for the electric co-op, and he died six years ago in March, on a Tuesday, of a stroke, with his boots by the door. I have a canvas coat with the hospital's name still sewn on the pocket, reading glasses on a cord, and a pipe wrench in the trunk of my car, out of habit and not because I expect to need it.
 
-Isaiah was still on the line. "I'm standing at the boiler room door," he said. "I came down because the young man asked me to. Dmitri's been resetting it, and he doesn't like it, and I don't like it."
+Isaiah, who is a patient man, was still on the line. "I'm standing at the boiler room door," he said. "I came down because the young man asked me to. Dmitri's been resetting it, and he doesn't like it, and I don't like it."
 
 "All right, Isaiah," I said. "Three questions. First, is the burner trying to light, or is it locked out?"
 
@@ -30,9 +30,9 @@ I heard him talk to someone, then come back. "Dmitri says it's clean but it's ju
 
 "Third. How cold is it in the north wing?"
 
-"The folks up there started calling the desk at nine-forty. The radiators on five and six are already stone cold. I've called four-B, Missus Rudd. I've called the younger Missus Rudd nine times, and it goes straight to the message. She's at the company dinner downtown, with Mister Tolliver. Nobody has heard from your son at all."
+"The folks up there started calling the desk at nine-forty. The radiators on five and six are already stone cold. I've called four-B, Missus Rudd. Dmitri tried the younger Missus Rudd at a quarter past nine, and I've tried six times since, and it goes straight to the message. She's at the company dinner downtown. I tried Mister Tolliver's penthouse too, and nobody answers."
 
-I knew where Neil was, because the news had told me. He was one of several thousand people sleeping in a terminal at O'Hare, after his flight back from Minneapolis was cancelled. He could not have helped, and I knew it, and it did not make me feel any better.
+I knew where Neil was, because he had texted me at suppertime. His flight back from Minneapolis had been cancelled, and he was one of several thousand people sleeping in a terminal at O'Hare, with a telephone that was nearly dead. He could not have helped, and I knew it, and it did not make me feel any better.
 
 "Tell Dmitri not to reset it a third time," I said. "Tell him to look at the float chamber on the low-water cutoff first, and to look at it with his own eyes."
 
